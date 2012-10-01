@@ -35,5 +35,5 @@ Pitfall:
 
 ## Other
 
-This plugin can work with my [Redmine VIP plugin](http://github.com/undx/redmine_vpi).
+This plugin can work with my [Redmine VIP plugin](http://github.com/undx/redmine_vip).
 If installed, you set a different SLA for your VIP members.
